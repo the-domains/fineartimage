@@ -1,0 +1,28 @@
+name: fineartimage
+favicon: null
+layout_spectrum: 0.2209788402542472
+typography_spectrum: 0.2890994646586478
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4078983801882714
+  lightness: 0.47955919592641294
+  saturation: 0.45681849936954677
+  rhythmicContrast: 0.5537553660105914
+purpose: []
