@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T16:28:32.644Z'
-dateModified: '2016-07-06T16:28:25.478Z'
+datePublished: '2016-07-06T16:32:49.862Z'
+dateModified: '2016-07-06T16:30:31.759Z'
 title: everything is ART everything is POLITICS- Ai Weiwei
 author:
   - name: ''
