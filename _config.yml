@@ -1,6 +1,6 @@
 name: fineartimage
 favicon: null
-layout_spectrum: 0.2209788402542472
+layout_spectrum: 1
 typography_spectrum: 0.2890994646586478
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#d3e5e6'
+    - '#2b231b'
+    - '#595042'
+    - '#9b9588'
   brandStrength: 0.4078983801882714
   lightness: 0.47955919592641294
   saturation: 0.45681849936954677
