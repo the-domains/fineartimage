@@ -6,9 +6,9 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf5db02-bc87-4ad4-8aa1-c14a0109df12.jpg
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-07-06T16:39:07.344Z'
-dateModified: '2016-07-06T16:37:13.924Z'
+description: every thing is ART everything is POLITICS- ai weiwei
+datePublished: '2016-07-06T16:39:54.945Z'
+dateModified: '2016-07-06T16:39:15.181Z'
 title: ''
 author:
   - name: ''
