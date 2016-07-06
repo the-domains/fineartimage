@@ -1,7 +1,7 @@
 name: fineartimage
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.2890994646586478
+layout_spectrum: 0.24176
+typography_spectrum: 0.85613
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#afaba0'
     - '#163003'
     - '#a07d3f'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
