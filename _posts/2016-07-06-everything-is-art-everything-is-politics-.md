@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: everything is ART everything is POLITICS-
-datePublished: '2016-07-06T16:57:46.580Z'
-dateModified: '2016-07-06T16:51:33.028Z'
+datePublished: '2016-07-06T16:59:49.884Z'
+dateModified: '2016-07-06T16:57:51.416Z'
 title: ''
 author:
   - name: ''
