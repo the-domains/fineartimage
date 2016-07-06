@@ -18,15 +18,15 @@ description: >-
   and Farmers Markets. Our images are informed and inspired by our recognition
   of the interconnectedness of all things. ©2016 fine art image | all rights
   reserved | fineartimage11@gmail.com | 631.238.4327
-datePublished: '2016-07-06T15:22:41.055Z'
-dateModified: '2016-07-05T21:08:46.427Z'
+datePublished: '2016-07-06T15:28:16.787Z'
+dateModified: '2016-07-06T15:28:11.139Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-06-at-fine-art-image-we-seek-to-express-the-beauty-of-the-natur.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-06-at-fine-art-image-we-seek-to-express-the-beauty-of-the-natur.md
 url: at-fine-art-image-we-seek-to-express-the-beauty-of-the-natur/index.html
 _type: Article
 
