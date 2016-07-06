@@ -18,8 +18,8 @@ description: >-
   and Farmers Markets. Our images are informed and inspired by our recognition
   of the interconnectedness of all things. ©2016 fine art image | all rights
   reserved | fineartimage11@gmail.com | 631.238.4327
-datePublished: '2016-07-06T15:32:27.808Z'
-dateModified: '2016-07-06T15:30:53.961Z'
+datePublished: '2016-07-06T15:34:59.494Z'
+dateModified: '2016-07-06T15:34:15.695Z'
 title: ''
 author: []
 sourcePath: >-
