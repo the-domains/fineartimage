@@ -7,8 +7,8 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: 'every thing is ART '
-datePublished: '2016-07-06T16:43:27.456Z'
-dateModified: '2016-07-06T16:43:08.893Z'
+datePublished: '2016-07-06T16:44:56.314Z'
+dateModified: '2016-07-06T16:44:17.652Z'
 title: ''
 author:
   - name: ''
