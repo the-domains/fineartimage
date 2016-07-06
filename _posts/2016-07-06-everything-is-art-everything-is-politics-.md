@@ -7,14 +7,14 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T15:22:41.044Z'
-dateModified: '2016-07-06T15:06:07.802Z'
+datePublished: '2016-07-06T15:37:34.133Z'
+dateModified: '2016-07-06T15:29:04.741Z'
 title: Everything is Art-Everything is Politics -
 author: []
+sourcePath: _posts/2016-07-06-everything-is-art-everything-is-politics-.md
 authors: []
 publisher: null
 starred: true
-sourcePath: _posts/2016-07-06-everything-is-art-everything-is-politics-.md
 _type: MediaObject
 
 ---
