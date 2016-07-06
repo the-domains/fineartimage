@@ -4,7 +4,7 @@
         <description><![CDATA[fineartimage]]></description>
         <link>https://thegrid.ai/fineartimage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 16:57:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2016 16:58:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fineartimage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
@@ -12,13 +12,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf5db02-bc87-4ad4-8aa1-c14a0109df12.jpg</link>
             <guid isPermaLink="false">9841d284-38f4-4ea0-97cb-00d8ae8dd2f7</guid>
             <pubDate>Wed, 06 Jul 2016 16:57:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>At Fine ART IMAGE</p>]]></description>
-            <link>https://thegrid.ai/fineartimage/at-fine-art-image/index.html</link>
-            <guid isPermaLink="false">bcde5ba7-f004-4f57-a894-fa621e8da01f</guid>
-            <pubDate>Wed, 06 Jul 2016 16:54:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
