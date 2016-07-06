@@ -6,9 +6,9 @@ isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcf5db02-bc87-4ad4-8aa1-c14a0109df12.jpg
 inLanguage: null
 keywords: []
-description: 'every thing is ART '
-datePublished: '2016-07-06T16:44:56.314Z'
-dateModified: '2016-07-06T16:44:17.652Z'
+description: everything is ART everything is POLITICS-
+datePublished: '2016-07-06T16:48:48.825Z'
+dateModified: '2016-07-06T16:48:13.529Z'
 title: ''
 author:
   - name: ''
@@ -20,9 +20,7 @@ starred: true
 _type: MediaObject
 
 ---
-**every thing is ART **
+**everything is ART ****everything is POLITICS-**
 
-**everything is POLITICS- **
-
-**ai weiwei**
+**ai weiwei**  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2f4e26-ccb1-4da1-83c5-61d7728ac731.jpg)
