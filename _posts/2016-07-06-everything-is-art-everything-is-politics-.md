@@ -7,9 +7,9 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-07-06T16:37:11.335Z'
-dateModified: '2016-07-06T16:37:03.570Z'
-title: ' '
+datePublished: '2016-07-06T16:39:07.344Z'
+dateModified: '2016-07-06T16:37:13.924Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -22,5 +22,3 @@ _type: MediaObject
 ---
 every thing is ART everything is POLITICS- ai weiwei
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2f4e26-ccb1-4da1-83c5-61d7728ac731.jpg)
-
-##
